@@ -225,9 +225,9 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 284.0, 308.0, 116.0, 20.0 ],
+					"patching_rect" : [ 284.0, 308.0, 110.0, 20.0 ],
 					"style" : "",
-					"text" : "optional arguments:"
+					"text" : "optional argument:"
 				}
 
 			}
