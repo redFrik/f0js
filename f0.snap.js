@@ -1,6 +1,6 @@
 //		----------------------------------------------------------
-//		-- fredrik olofsson 160519								--
-//		-- ported from max c external							--
+//		-- fredrik olofsson 020206								--
+//		-- ported from max c external 160519					--
 //		-- distributed under GNU GPL license					--
 //		----------------------------------------------------------
 
