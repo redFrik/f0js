@@ -1,8 +1,8 @@
-//		----------------------------------------------------------
-//		-- fredrik olofsson 091221								--
-//		-- ported from max c external 160518					--
-//		-- distributed under GNU GPL license					--
-//		----------------------------------------------------------
+//      ----------------------------------------------------------
+//      -- fredrik olofsson 091221                              --
+//      -- ported from max c external 160518                    --
+//      -- distributed under GNU GPL license                    --
+//      ----------------------------------------------------------
 
 var xstep= 1.0;
 var xloop= 0;

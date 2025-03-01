@@ -1,9 +1,9 @@
 
-//		----------------------------------------------------------
-//		-- fredrik olofsson 010614								--
-//		-- ported from max c external 160524					--
-//		-- distributed under GNU GPL license					--
-//		----------------------------------------------------------
+//      ----------------------------------------------------------
+//      -- fredrik olofsson 010614                              --
+//      -- ported from max c external 160524                    --
+//      -- distributed under GNU GPL license                    --
+//      ----------------------------------------------------------
 
 var valOut= 0;
 

@@ -1,8 +1,8 @@
-//		----------------------------------------------------------
-//		-- fredrik olofsson 040226								--
-//		-- ported from max c external 160524					--
-//		-- distributed under GNU GPL license					--
-//		----------------------------------------------------------
+//      ----------------------------------------------------------
+//      -- fredrik olofsson 040226                              --
+//      -- ported from max c external 160524                    --
+//      -- distributed under GNU GPL license                    --
+//      ----------------------------------------------------------
 
 var valCount= 0;
 var valMin= 0-Number.MAX_VALUE;

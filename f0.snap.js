@@ -1,8 +1,8 @@
-//		----------------------------------------------------------
-//		-- fredrik olofsson 020206								--
-//		-- ported from max c external 160519					--
-//		-- distributed under GNU GPL license					--
-//		----------------------------------------------------------
+//      ----------------------------------------------------------
+//      -- fredrik olofsson 020206                              --
+//      -- ported from max c external 160519                    --
+//      -- distributed under GNU GPL license                    --
+//      ----------------------------------------------------------
 
 var valLeft= 0.0;
 var valRight= 50.0;

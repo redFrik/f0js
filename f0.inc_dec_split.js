@@ -1,9 +1,8 @@
-
-//		----------------------------------------------------------
-//		-- fredrik olofsson 040226								--
-//		-- ported from max c external 160522					--
-//		-- distributed under GNU GPL license					--
-//		----------------------------------------------------------
+//      ----------------------------------------------------------
+//      -- fredrik olofsson 040226                              --
+//      -- ported from max c external 160522                    --
+//      -- distributed under GNU GPL license                    --
+//      ----------------------------------------------------------
 
 var valLeft= 0.0;
 var valLast= 0.0;
@@ -40,6 +39,11 @@ function msg_float(val) {
             valLast= val;
             break;
     }
+}
+function list(a, b) {
+   valLast= b;
+   valLeft= a;
+   theFunction();
 }
 function reset() {
     valLast= valDefault;

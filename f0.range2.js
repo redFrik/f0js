@@ -1,9 +1,9 @@
 
-//		----------------------------------------------------------
-//		-- fredrik olofsson 040330								--
-//		-- ported from max c external 160524					--
-//		-- distributed under GNU GPL license					--
-//		----------------------------------------------------------
+//      ----------------------------------------------------------
+//      -- fredrik olofsson 040330                              --
+//      -- ported from max c external 160524                    --
+//      -- distributed under GNU GPL license                    --
+//      ----------------------------------------------------------
 
 var setMin= Number.MAX_VALUE;
 var setMax= 0-Number.MAX_VALUE;
