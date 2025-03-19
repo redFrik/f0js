@@ -30,7 +30,7 @@ Create a JavaScript object like this... `[js f0.ultimate_counter]`
 ## version history
 
 -----250319
-* f0.limit_counter bugfix set minimum
+* f0.limit_counter bugfix minimum and maximum arguments
 
 -----250301
 * inc_dec_split now understands lists

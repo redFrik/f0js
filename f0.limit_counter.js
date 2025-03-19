@@ -34,6 +34,7 @@ switch(Math.min(jsarguments.length, 5)) {
 }
 
 function bang() {
+    valCount= Math.min(Math.max(valCount, valMin), valMax);
     switch(inlet) {
         case 0:
             if(valCount<valMax) {
@@ -46,8 +47,6 @@ function bang() {
         case 1:
             if(valCount>valMin) {
                 valCount= valCount-1;
-            } else {
-                valCount= valMin;
             }
             if(valCount==valMin) {
                 outlet(1, "bang");
