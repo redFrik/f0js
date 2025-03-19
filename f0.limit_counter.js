@@ -1,7 +1,7 @@
 //      ----------------------------------------------------------
 //      -- fredrik olofsson 040226                              --
 //      -- ported from max c external 160524                    --
-//      -- distributed under GNU GPL license                    --
+//      -- bugfix 240319 set minimum                            --
 //      ----------------------------------------------------------
 
 var valCount= 0;
@@ -46,6 +46,8 @@ function bang() {
         case 1:
             if(valCount>valMin) {
                 valCount= valCount-1;
+            } else {
+                valCount= valMin;
             }
             if(valCount==valMin) {
                 outlet(1, "bang");
